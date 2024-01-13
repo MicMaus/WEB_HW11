@@ -1,0 +1,4 @@
+in api.users_routes.py there are routes.
+from routes we call  services/functions written in services.users.py
+from services/functions we call repository related functions, which execute actions with DB. 
+these functions written in repository.users.py
